@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm Yeison Oviedo Martinez: \ 
+I'm **Yeison Oviedo Martinez**:
 - 🔭 I’m currently working on ** Develop FullStack Freelance**
 - 🌱 I’m currently learning:
 1. Javacript
