@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 3. Typescript 
 4. PHP and Mysql or SqlServer.
 5. Java and Springboot. 
-- 👯 I’m looking to collaborate on projects for develop web pages and applicatives mobile....
+- 👯 I’m looking to collaborate on projects for develop web pages and applicatives mobile.
 ...**Thanks for reading**
 
 
