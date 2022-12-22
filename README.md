@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 -->
+I'm Yeison Oviedo Martinez: \ 
 - 🔭 I’m currently working on ** Develop FullStack Freelance**
 - 🌱 I’m currently learning:
 1. Javacript
@@ -12,6 +13,6 @@ Here are some ideas to get you started:
 4. PHP and Mysql or SqlServer.
 5. Java and Springboot. 
 - 👯 I’m looking to collaborate on projects for develop web pages and applicatives mobile. \
-...**Thanks for reading**...
+...**Thanks for readme!**...
 
 
