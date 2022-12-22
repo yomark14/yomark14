@@ -14,6 +14,6 @@ I'm **Yeison Oviedo Martinez**:
 5. Java and Springboot. 
 6. Flutter.
 - 👯 I’m looking to collaborate on projects for develop web pages and applicatives mobile. \
-...**Thanks for readme!**...
+...**Thanks for read me!**...
 
 
